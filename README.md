@@ -12,10 +12,10 @@ Image classification on a dataset with 3000 photos
  - Делаем предикт на тестовой части.
  - Строим confusion matrix и считаем f1-score.
  
- ![confusion matrix](example/confusion matrix.png)
+ ![confusion matrix](example/confusion_matrix.png)
  
  
- ![f1-score](example/f1_score)
+ ![f1-score](example/f1_score.png)
 
  
 Чтобы код заработал, нужно подгрузить на свой гугл драйв датасет и файл json, и веса модели (https://drive.google.com/drive/folders/1UyyopmxWmEhlcJzH2xy5rGDhl-vWQ1Kv?usp=sharing), а затем подключить драйв к коллабу.
