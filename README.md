@@ -12,7 +12,7 @@ Image classification on a dataset with 3000 photos
  - Делаем предикт на тестовой части.
  - Строим confusion matrix и считаем f1-score.
  
- ![confusion matrix](example/confusion_matrix.png)
+ ![confusion matrix](example/confusion_matrix.jpg)
  
  
  ![f1-score](example/f1_score.png)
